@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"name": "ESP32",
+			"path": "ESP32"
+		},
+		{
+			"name": "Arduino Uno",
+			"path": "Arduino Uno"
+		}
+	]
+}
